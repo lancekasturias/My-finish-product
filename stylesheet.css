@@ -1,0 +1,186 @@
+
+body{
+background-color:#0f3460;
+	font-family:justify	;
+	color:#fadcac;
+	margin-top:0%;
+	margin-left:0%;
+		margin-right:0%;
+		
+			
+	}
+
+a{
+	color:#fadcac;
+	font-family:"Algerian";
+
+	
+	}	
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+input[type=email] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+input[type=number] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+	input{
+	background-color:#fadcac;
+	  padding: 20px;
+  border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+  border-color:white;
+  border:solid;
+	padding:20px;
+}
+/*class*/
+
+/*border radius*/
+.hr{ 
+background-color: #2d3436;
+background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%);
+	  padding: 20px;
+  border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+  border-color:white;
+	}
+	/*picture center*/
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.h{
+margin-top:0%;
+margin-left:0%;
+	position:fixed;
+text-align:center;	
+background-color: #2d3436;
+background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%);
+  width:100%;
+  height:10%;
+  	  display: inline;
+  text-decoration: none;
+padding: 10px;
+  word-spacing: 80px;
+    font-size: 50px;
+}
+.a{
+	
+		font-family:"Algerian";
+	color:#ffc93c;
+	  text-align:center;
+
+}
+ a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.table{
+	
+	border:solid;
+	padding:20px;	
+}
+.shop{
+background: linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
+}
+.zoom {
+	
+  padding: 20px;
+  transition: transform .5s; 
+  width: 350px;
+  height: 450x;
+  margin: 0;
+}
+
+.zoom:hover {
+  transform: scale(1.1); 
+    background-image: linear-gradient(to left bottom, #00dbf4, #00bfff, #009fff, #0078ff, #0042f4);
+}
+/* hover shop*/
+.zoom1{
+	
+  padding: 20px;
+  transition: transform .5s; 
+  width: 350px;
+  height: 450x;
+  margin: 0;
+
+}
+
+.zoom1:hover {
+  transform: scale(1.1); 
+	    box-shadow: 0 0 50px cyan;
+}
+/*pictures*/
+.align{text-align:center;
+background-color: #2d3436;
+background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%);
+	color:#ffc93c;
+	font-family:"Algerian";
+	
+	
+}
+
+.logo{
+
+	position:fixed;
+display: inline-block;
+   	 left: 0;
+  	bottom: 0;
+  	border-radius:80px;
+	border-width:1px;
+}	
+
+.zigs{
+	display: inline-block;
+   	 left: 0;
+  	bottom: 0;
+  	border-radius:100%;
+	border-width:1px;
+	border:solid;
+	display: inline-block;
+  box-shadow: 0 0 50px cyan;
+	
+}
+.zigs:hover {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  
+
+}
+	.aa{
+			text-decoration:none;
+	}
+	
+
+.text{
+	
+text-align:center;
+	background-color:#fadcac;
+	  padding: 20px;
+  border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+	width:100%;
+	height:50%;
+ border:solid;
+ 	  border-color:black;
+	}
